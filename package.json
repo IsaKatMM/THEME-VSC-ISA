@@ -1,14 +1,12 @@
 {
-  "name": "mi-extension",
-  "displayName": "mi-extension",
-  "description": "",
+  "name": "extension-codigo-isa",       // <- este nombre debe ser único
+  "displayName": "Extension CodigoIsa", // <- nombre que ves en VS Code
+  "description": "Tema oscuro personalizado para VS Code",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.104.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
@@ -29,4 +27,3 @@
   },
   "publisher": "codigo-Isa"
 }
-
