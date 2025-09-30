@@ -1,6 +1,6 @@
 {
-  "name": "extension-codigo-isa",       // <- este nombre debe ser único
-  "displayName": "Extension CodigoIsa", // <- nombre que ves en VS Code
+  "name": "extension-codigo-isa",
+  "displayName": "Extension CodigoIsa",
   "description": "Tema oscuro personalizado para VS Code",
   "version": "0.0.1",
   "engines": {
