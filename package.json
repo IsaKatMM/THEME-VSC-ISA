@@ -1,0 +1,32 @@
+{
+  "name": "mi-extension",
+  "displayName": "mi-extension",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extension CodigoIsa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension CodigoIsa-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/codigo-dark.png",
+  "author": {
+    "name": "Isabel Morocho",
+    "email": "isabel.morocho@unl.edu.ec"
+  },
+  "repository": {
+    "url": "https://github.com/IsaKatMM/THEME-VSC-ISA.git",
+    "type": "git"
+  },
+  "publisher": "codigo-tecsup"
+}
+
